@@ -1,0 +1,12 @@
+D:\Faks\DIPLOMSKI\StockQuotes\Task6\bin\Debug\Task6.exe.config
+D:\Faks\DIPLOMSKI\StockQuotes\Task6\bin\Debug\Task6.exe
+D:\Faks\DIPLOMSKI\StockQuotes\Task6\bin\Debug\Task6.pdb
+D:\Faks\DIPLOMSKI\StockQuotes\Task6\obj\Debug\StockQuotes.csprojAssemblyReference.cache
+D:\Faks\DIPLOMSKI\StockQuotes\Task6\obj\Debug\Task6.exe
+D:\Faks\DIPLOMSKI\StockQuotes\Task6\obj\Debug\Task6.pdb
+C:\Users\Srdjan\Desktop\Projects\StockQuotesFinal\bin\Debug\Task6.exe.config
+C:\Users\Srdjan\Desktop\Projects\StockQuotesFinal\bin\Debug\Task6.exe
+C:\Users\Srdjan\Desktop\Projects\StockQuotesFinal\bin\Debug\Task6.pdb
+C:\Users\Srdjan\Desktop\Projects\StockQuotesFinal\obj\Debug\StockQuotes.csprojAssemblyReference.cache
+C:\Users\Srdjan\Desktop\Projects\StockQuotesFinal\obj\Debug\Task6.exe
+C:\Users\Srdjan\Desktop\Projects\StockQuotesFinal\obj\Debug\Task6.pdb
